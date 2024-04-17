@@ -1,0 +1,48 @@
+
+#main
+{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background-color: aqua;
+border: aquamarine;
+padding: 5%;
+border-radius: 10%;
+}
+.input {
+    text-align: center;
+}
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: burlywood;
+}
+
+#Tasks {
+    margin-top: 20px;
+    text-align: center;
+}
+#add{
+    background-color: coral;
+}
+.Task {
+    font-size: 18px;
+    color: #333;
+} 
+label{
+    display: block;
+    background-color: rgb(244, 248, 162);
+    margin: 1%;
+}
+
+#all , #complete , #uncomplete{
+    color: blue;
+}
+h3{
+    /* align-content: center; */
+    left: 100px;
+}
