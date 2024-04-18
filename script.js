@@ -1,4 +1,4 @@
-const data = [{id:1,Text:"tushar",checked:true}, {id:2,Text:"Juhi",checked:false}];
+const data = [{id:1,Text:"Work-A",checked:true}, {id:2,Text:"Work-B",checked:false}];
 
 const addBtn = document.getElementById("add")
 const inputBox = document.getElementById("input")
